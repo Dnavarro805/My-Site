@@ -4,7 +4,6 @@ body{
     text-align: center;
     font-family: 'Merriweather', serif;
     color: #40514E;
-    font-weight: 600;
 }
 
 h1 {
@@ -32,6 +31,7 @@ a {
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
+    font-weight: 700;
 }
 
 a:hover {
@@ -98,6 +98,7 @@ hr {
 
 .developer-img {
     width: 55%;
+    height: 14.5rem;
     border-radius: 50%;
     float: right;
     margin-left: 30px;
@@ -112,7 +113,6 @@ hr {
 .copyright {
     color: #EAF6F6;
     font-size: 0.75rem;
-    padding: 20px 0;
     padding: 20px 0;
     font-family: 'Montserrat', sans-serif;
 }
@@ -141,6 +141,7 @@ hr {
     display: inline-block;
     cursor: pointer;
     text-align: center;
+    font-weight: 700;
  }
  
  .btn:hover {
@@ -155,4 +156,16 @@ hr {
     -moz-border-radius: 8px;
     border-radius: 8px;
     text-decoration: none;
+ }
+
+ .linkedin-img {
+    width: 3%; 
+ }
+
+ .github-img {
+     width: 3%;
+ }
+
+ .footer-link {
+    margin: auto 5px;
  }

@@ -85,10 +85,6 @@ hr {
     bottom: 300px;
 }
 
-.profile {
-    border-radius: 50%;
-}
-
 .code-img {
     width: 55%;
     border-radius: 50%; 
@@ -98,7 +94,7 @@ hr {
 
 .developer-img {
     width: 55%;
-    height: 14.5rem;
+    height: 12.5rem;
     border-radius: 50%;
     float: right;
     margin-left: 30px;

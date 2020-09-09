@@ -86,15 +86,15 @@ hr {
 }
 
 .code-img {
-    width: 55%;
+    width: 35%;
     border-radius: 50%; 
     float: left;
     margin-right: 30px;
 }
 
 .developer-img {
-    width: 55%;
-    height: 12.5rem;
+    width: 35%;
+    height: 9rem;
     border-radius: 50%;
     float: right;
     margin-left: 30px;

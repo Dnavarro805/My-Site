@@ -7,4 +7,4 @@ https://dnavarro805.github.io/My-Site/
 
 ## What is My-Site?
 Serves as an online portfolio for the world wide web.\
-Desinged and develpoed with HTML and CSS.
+Desinged and developed with HTML and CSS.
